@@ -2,9 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Things Learned from this Project
 
-In the project directory, you can run:
+1. Hooks useState 
+2. props
+3. state
 
 ### `npm start`
 
